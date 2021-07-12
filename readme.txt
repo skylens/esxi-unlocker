@@ -1,6 +1,12 @@
 macOS Unlocker V3.0.2 for VMware ESXi
 =====================================
 
+modify by skylens
+
+Thanks:
+
+https://raw.githubusercontent.com/theJaxon/unlocker/master/gettools.py
+
 1. Introduction
 ---------------
 
