@@ -7,6 +7,8 @@ Thanks:
 
 https://raw.githubusercontent.com/theJaxon/unlocker/master/gettools.py
 
+https://github.com/paolo-projects/unlocker/blob/master/gettools.py
+
 1. Introduction
 ---------------
 
