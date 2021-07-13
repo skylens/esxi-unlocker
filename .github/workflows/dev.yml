@@ -26,13 +26,11 @@ jobs:
       # Runs a single command using the runners shell
       - name: build
         run: |
-          git clone https://github.com/shanyungyang/esxi-unlocker.git
-          cd esxi-unlocker
           ./esxi-build.py
       
       - name: gettools
         run: |
-          python gettools.py
+          python3 gettools.py
           gtar -zcvf darwintools.tgz installtools.sh tools/
           
       - name: upload artifact
