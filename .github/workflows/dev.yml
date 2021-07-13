@@ -32,7 +32,7 @@ jobs:
       
       - name: gettools
         run: |
-          python3 gettools.py
+          python gettools.py
           gtar -zcvf darwintools.tgz installtools.sh tools/
           
       - name: upload artifact
